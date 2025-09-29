@@ -257,10 +257,8 @@ Table of contents
 
 # Introduction {#introduction}
 
-::: callout-note
-## \@
-
-Imagine ...
+::: {.callout-tip appearance="minimal"}
+## \@Image
 
 You’re in the university library, it's late afternoon and your essay is due tomorrow. You open ChatGPT and type: "Write an introduction for an essay on the influence of social media on democracy." Within five seconds, a seemingly perfect paragraph appears. You hesitate. Is this allowed? How will you know if this is correct? And perhaps most importantly: do you understand what is going on here, under the hood of this AI tool? You're not the only one struggling with questions like these. In this handbook, you'll discover the answers to these and many more questions, and how to handle AI consciously, critically and effectively.
 :::
@@ -289,6 +287,7 @@ Unlike classic AI, which primarily recognizes and classifies, generative AI is c
 
 Generative AI often works with so-called transformational models such as GPT. These models predict, based on previously trained patterns, which word is most likely to follow the previous one. Just as a baby learns to speak by listening to language around it, language models like GPT learn to write by ‘reading’ vast amounts of text and learning from it (Brown et al., 2020). You can read more about this in chapters 4 and 5.
 
+::: callout-note
 Box 1.1 - What do we mean by 'GPT'
 
 You may have worked with ChatGPT before, but what does GPT stand for? GPT is the abbreviation for Generative Pre-trained Transformer:
@@ -296,6 +295,7 @@ You may have worked with ChatGPT before, but what does GPT stand for? GPT is the
 -   'Generative' refers to the ability to create new content.
 -   'Pre-trained' means that the model has been pre-trained on a massive data set.
 -   'Transformer' is the underlying neural network that predicts contextual relationships between words and can convert input (a prompt) into an output (response).
+:::
 
 ## How does generative AI work? {#how-does-generative-ai-work}
 
