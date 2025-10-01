@@ -33,7 +33,11 @@ Student Edition
 Vrije Universiteit Amsterdam
 
 Handbook of AI Literacy\
-Vrije Universiteit Amsterdam\
+Vrije Universiteit Amsterdam
+
+[@pentina2023]
+
+\
 VU Centre for Teaching and Learning
 
 Student Edition
