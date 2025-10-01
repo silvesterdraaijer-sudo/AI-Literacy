@@ -1,6 +1,8 @@
 ---
 title: "AI Literacy Handbook VU"
-author: "VU Education Lab"
+author:
+  - "VU Education Lab"
+  - "Pipo de clown"
 date: "2025-09-14"
 lang: en
 toc: true          # Table of contents
@@ -37,8 +39,8 @@ Vrije Universiteit Amsterdam
 
 [@pentina2023]
 
-\
-VU Centre for Teaching and Learning
+
+VU Centre for Teaching and Learning BOE
 
 Student Edition
 
@@ -58,6 +60,7 @@ This handbook builds on the open educational resources developed by Penn State U
 -   Silvester Draaijer, Program Manager VU Education Workshop/VU Centre for Teaching & Learning
 -   Marianne Eggink, independent journalist and editor
 -   Charlotte Meijer, educationist VU Education Lab/VU Centre for Teaching & Learning
+-   Pipo de clown
 
 **With thanks to**
 
